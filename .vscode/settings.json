@@ -1,0 +1,23 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    80,
+    100
+  ],
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "search.exclude": {
+    ".cache": true,
+    "dist": true,
+    ".vscode": true
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "eslint.alwaysShowStatus": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

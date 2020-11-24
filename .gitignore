@@ -1,0 +1,9 @@
+.cache
+.DS_Store
+.parcel-cache
+*.tsbuildinfo
+archived
+dist
+node_modules
+Thumbs.db
+yarn-error.log
